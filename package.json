@@ -1,0 +1,15 @@
+{
+  "name": "newsletter-signupproject",
+  "version": "1.0.0",
+  "description": "First SignUp Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}
